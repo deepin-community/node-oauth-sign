@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.*\/v?([\d\.-]+)\.tar\.gz/node-oauth-sign-$1.tar.gz/ \
+https://github.com/mikeal/oauth-sign/tags .*/archive/v?([\d\.]+).tar.gz	

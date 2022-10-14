@@ -1,0 +1,30 @@
+node-oauth-sign (0.9.0-2) unstable; urgency=medium
+
+  * Team upload
+  * Bump debhelper compatibility level to 12
+  * Declare compliance with policy 4.5.0
+  * Add "Rules-Requires-Root: no"
+  * Add debian/gbp.conf
+  * Add upstream/metadata
+  * Use pkg-js-tools auto test & install
+  * Update copyright: add Berne Convention comment
+
+ -- Xavier Guimard <yadd@debian.org>  Sun, 08 Mar 2020 17:36:50 +0100
+
+node-oauth-sign (0.9.0-1) unstable; urgency=medium
+
+  * Team upload
+  * New upstream version 0.9.0
+  * Use salsa.debian.org in Vcs-* fields
+  * Bump debhelper compatibility level to 11
+  * Bump Standards-Version to 4.2.1 (no changes needed)
+  * Change section to javascript and priority optional
+  * Enable nocheck build profile
+
+ -- Pirate Praveen <praveen@debian.org>  Wed, 19 Sep 2018 18:12:48 +0530
+
+node-oauth-sign (0.3.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #719724)
+
+ -- Jérémy Lal <kapouer@melix.org>  Wed, 14 Aug 2013 17:07:11 +0200
